@@ -1,5 +1,8 @@
 # Web-applications-framework-in-C-
-Developed a web server in c++ which is capable of serving a dynamic web application.
+• Developed a web server in c++ which is capable of serving a dynamic web application. Ujjain Engineering College
+• Easy to use request header. Easy to create/send the response header for dynamic pages and for static pages it can create a response header, set appropriate HTTP   code and message.
+• It is also capable of handling sessions and cookies.
+
 
 ```
 #include <sys/socket.h>
